@@ -39,3 +39,7 @@
 ### Run the Server
 ```bash
 python server.py
+![Screenshot 2024-09-28 150959](https://github.com/user-attachments/assets/32074a39-f19f-4a05-8751-8ed5c5650f8a)
+![Screenshot 2024-09-28 151109](https://github.com/user-attachments/assets/5993ba42-fa05-4d0c-a5dd-81a90b4bcf5d)
+![Screenshot 2024-09-28 150644](https://github.com/user-attachments/assets/47ce058c-1f8f-40d4-b5aa-19b0ed73369b)
+
