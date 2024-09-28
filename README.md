@@ -66,3 +66,6 @@ Line 7: There are a lot of networks that we can observe in our physical world ai
 ### Notes
 - Make sure you have the test files (e.g., sample.txt) in the appropriate location for the server to read them.
 - Adjust the filename and file path as needed when entering information in the client.
+
+
+![RP712i8m44Jl-OeS5V47F4YX7WMX5Jo6c2us4bFDRaKH_zqaJKgHvhOpRtO7KY19H_tDCAQCHEIbqM29VnZtRyMZBLGK5qlspLWDxWdk3yCeUcmGMsaR0xDXwLGxXeNGLfCGOr0Pa7QSBa1xRG673QdVUfigR7ZPMGkAPfmQR9EFLV3e0Ocbuf4AXiyxa0IPEvolOLcQfbWenO_mcZEJS](https://github.com/user-attachments/assets/c8893fd6-aa62-4099-b126-be3913ccd51b)
