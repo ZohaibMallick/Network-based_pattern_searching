@@ -38,6 +38,9 @@
 
 ### Run the Server
 ```bash
-python server.py'''
-
-**Run the Client**
+python server.py
+```
+### Run the Client
+```bash
+python client.py
+```
