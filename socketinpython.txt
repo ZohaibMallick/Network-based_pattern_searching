@@ -1,0 +1,8 @@
+Connecting devices to exchange information is what networking is all about. 
+Sockets are an essential part of effective network communication as they are the underlying concept used to transmit messages between devices over local or global networks and different processes on the same machine.
+They provide a low-level interface that allows for fine-grained control over the traffic that is to be sent or received.
+Networking enables communication and information sharing of any kind.
+It is a process of connecting two or more devices to allow them to exchange information.
+A collection of such interconnected devices is called a network.
+There are a lot of networks that we can observe in our physical world: airline or powerline networks or cities interconnected with one another via highways are some good examples.
+In much the same way, there are numerous networks in information technology; the most prominent and well-known of which is the internet, the global network of networks that connects myriad devices and the one that you are probably using right now to read this article.
