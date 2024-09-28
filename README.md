@@ -63,6 +63,6 @@ Line 7: There are a lot of networks that we can observe in our physical world ai
 - To stop the server, press Ctrl + C in the terminal running server.py.
 
 
-##Notes
+### Notes
 - Make sure you have the test files (e.g., sample.txt) in the appropriate location for the server to read them.
 - Adjust the filename and file path as needed when entering information in the client.
