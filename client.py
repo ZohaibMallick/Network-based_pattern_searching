@@ -26,9 +26,18 @@ def start_client(host='127.0.0.1', port=9999):
         print(f"Error: {response['error']}")
     else:
         print(f"Results for '{response[0]}':")
-        for item in response[1:]:
-            print(f"Line {item[0]}: {item[1]}")
+        found_word = False  # Track if any word is found
 
+        for item in response[1:]:
+            # Assuming item is a tuple (line_number, line_content)
+            print(f"Line {item[0]}: {item[1]}")
+            found_word = True  # A line was printed, so set flag to True
+
+        if not found_word:  # If no lines were found in the loop
+            print("No Line Found")
+
+        if not found_word:  # If no word was found after loop
+            print("No word Found")
     client.close()
 
 if __name__ == "__main__":
