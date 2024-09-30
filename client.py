@@ -36,8 +36,6 @@ def start_client(host='127.0.0.1', port=9999):
         if not found_word:  # If no lines were found in the loop
             print("No Line Found")
 
-        if not found_word:  # If no word was found after loop
-            print("No word Found")
             
     client.close()
 
