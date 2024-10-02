@@ -64,7 +64,7 @@ Line 7: There are a lot of networks that we can observe in our physical world ai
 
 
 ### Notes
-- Make sure you have the test files (e.g., sample.txt) in the appropriate location for the server to read them.
+- Make sure you have the test files (e.g., socketinpython.txt) in the appropriate location for the server to read them.
 - Adjust the filename and file path as needed when entering information in the client.
 
 
